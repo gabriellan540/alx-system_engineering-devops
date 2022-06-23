@@ -1,1 +1,1 @@
-A repository about shell basics
+Shell permissions
